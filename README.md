@@ -1,3 +1,8 @@
+
+
+
+<img width="841" height="859" alt="Projeto(Oficina)" src="https://github.com/user-attachments/assets/777f8a0f-9299-4b74-8c3a-38ab48f96585" />
+
 Projeto Lógico de Banco de Dados - Oficina Mecânica
 
 Este repositório contém o esquema lógico de banco de dados para o gerenciamento de ordens de serviço em uma oficina mecânica, desenvolvido como desafio de projeto da plataforma Digital Innovation One (DIO).
